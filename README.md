@@ -5,7 +5,7 @@
 
 To develop a application to add animation to imageview,move,blink,fade,clockwise,zoom,slide operation using Android Studio.
 
-## EQUIPMENTS REQUIRED:A
+## EQUIPMENTS REQUIRED:
 
 Android Studio(Latest Version)
 
